@@ -28,6 +28,17 @@ body {
     background-color: transparent;
 }
 
+/*.back-to-top {
+    display: none;
+    position: fixed;
+    z-index: 100000000;
+    bottom: 50%;
+    right: 20px;
+    background-color: cornflowerblue;
+    padding: 20px;
+    color: #fff;
+}*/
+
 nav {
     height: 128px;
 }
